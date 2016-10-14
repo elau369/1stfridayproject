@@ -3,3 +3,5 @@ font-family: cursive;
 font-style: italic;}
 .navigaton {align-content: block;}
 body{background-color: bisque;}
+img{border-radius: 8px;  display: block;
+    margin: auto;}
