@@ -7,6 +7,8 @@
 ## Description
 
 This is a dual page set up of a collection of work done to date and a page about myself 
+to view on github you can use the following url:
+https://elau369.github.io/1stfridayproject/
 
 ## Setup/Installation Requirements
 
